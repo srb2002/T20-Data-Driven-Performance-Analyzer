@@ -3,7 +3,7 @@ The recently concluded T20 Cricket World Cup saw England emerge victorious over 
 
 Scraping match results and player data efficiently using Bright Data ensures secure access to necessary datasets. The transformation of data into a usable format (CSV) facilitates the creation of visual analytics dashboards. As part of the project, tutorials will cover data transformation using Python and Pandas, leading to new column creation and dataset merging.
 
-The initial stages of the project address the Super 12 qualification, emphasizing the need for comprehensive data transformation while setting up DAX measures essential for player statistics. Detailed explanations of the data modeling process, including the development of calculated columns and the importance of visual aesthetics in dashboard design, are also included. Furthermore, the project encourages participants to apply analytical methods for player selection and offers opportunities to win prizes through a final challenge, fostering community engagement and competition.
+Detailed explanations of the data modeling process, including the development of calculated columns and the importance of visual aesthetics in dashboard design, are also included. Furthermore, the project encourages participants to apply analytical methods for player selection and offers opportunities to win prizes through a final challenge, fostering community engagement and competition.
 
 
 Key Insights
@@ -17,4 +17,3 @@ Key Insights
 
 🎨 Dashboard Design Aesthetics: The guide’s focus on the aesthetics of the dashboard reveals that visual appeal plays a significant role in user engagement. Effective dashboards are not only informative but visually enticing, encouraging users to interact with the data presented.
 
-📈 Application of DAX Measures: The creation of DAX measures for calculating total runs and player innings showcases advanced analytical techniques that enhance data interpretation and enhance the depth of insights drawn from the statistics.
